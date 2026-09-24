@@ -21,11 +21,3 @@ tdd-bdd-final-project/
 ## Engineering focus
 
 The repository emphasizes designing behavior through tests and keeping application logic independently testable.
-
-## Portfolio context
-
-This is a supporting software-engineering project demonstrating testing discipline rather than a standalone product.
-
-## License
-
-Add a license when the project licensing decision is finalized.
